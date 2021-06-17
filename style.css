@@ -1,5 +1,5 @@
 body {
-    background-color: #ffb703;
+    background-color: #EEEEEE;
     font-family:fantasy;
     text-align: center;
 }
@@ -10,11 +10,12 @@ body {
     margin: 1em;
     border-radius: 1em;
     width: 20em;
+    height: 25em;
     display: inline-block;
 }
 
 .small_pizza {
-    background-color: #023047;
+    background-color: #326273;
    
     /* float: left; */
 
@@ -32,6 +33,9 @@ body {
 }
 
 .contact_details {
-    background-color: #fb8500;
-
+    background-color: #5C9EAD;
+    border: 2px solid;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 1em;
 }
