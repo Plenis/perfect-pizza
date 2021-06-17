@@ -1,0 +1,37 @@
+body {
+    background-color: #ffb703;
+    font-family:fantasy;
+    text-align: center;
+}
+
+.pizza {
+    border: 2px solid;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 1em;
+    width: 20em;
+    display: inline-block;
+}
+
+.small_pizza {
+    background-color: #023047;
+   
+    /* float: left; */
+
+}
+
+.medium_pizza {
+    background-color: #219ebc;
+    /* float: left; */
+}
+
+.large_pizza {
+    background-color: #8ecae6;
+    /* float: left; */
+
+}
+
+.contact_details {
+    background-color: #fb8500;
+
+}
